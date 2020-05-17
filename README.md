@@ -4,8 +4,8 @@ Solutions
 ---------------------
 Solution is unit tested strongly with,
 
-JUnit
-Mockito
+JUnit, 
+Mockito and 
 AssertJ
 
 2) The app does't lose message if the database connections goes down
